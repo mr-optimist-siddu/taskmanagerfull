@@ -1,0 +1,82 @@
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:24:47.513Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:24:54.278Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:31:09.466Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:39:38.452Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:39:50.729Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:39:59.761Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:40:08.302Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:40:28.250Z"}
+{"level":"info","message":"User new2@gmail.com logged in Successfully","timestamp":"2022-03-09T05:41:04.372Z"}
+{"level":"info","message":"Logged in Successfully","timestamp":"2022-03-09T05:41:04.459Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:41:55.732Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:44:57.537Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:45:30.871Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:45:35.508Z"}
+{"level":"info","message":"Fetching the lists from DB","timestamp":"2022-03-09T05:45:36.499Z"}
+{"level":"info","message":"User test@test.com logged in Successfully","timestamp":"2022-03-09T05:46:03.369Z"}
+{"level":"info","message":"Fetching the lists from DB","timestamp":"2022-03-09T05:46:03.495Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:47:06.572Z"}
+{"level":"info","message":"User test@test.com logged in Successfully","timestamp":"2022-03-09T05:47:24.180Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:48:14.870Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:48:47.598Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:49:09.789Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:49:25.508Z"}
+{"level":"info","message":"Fetching the lists of {\n  _id: new ObjectId(\"621877d2d7f29144f2e7eb4b\"),\n  title: 'list 3',\n  _userId: new ObjectId(\"621791d55acb95e68b2bbe72\"),\n  __v: 0\n},{\n  _id: new ObjectId(\"62208097ccef1144ec4fca55\"),\n  title: 'list 4',\n  _userId: new ObjectId(\"621791d55acb95e68b2bbe72\"),\n  __v: 0\n},{\n  _id: new ObjectId(\"6220a20c2e8039133337921f\"),\n  title: 'list 6',\n  _userId: new ObjectId(\"621791d55acb95e68b2bbe72\"),\n  __v: 0\n},{\n  _id: new ObjectId(\"62282f9e42e6da4e974c7a77\"),\n  title: 'new',\n  _userId: new ObjectId(\"621791d55acb95e68b2bbe72\"),\n  __v: 0\n}from DB","timestamp":"2022-03-09T05:49:29.870Z"}
+{"level":"info","message":"Fetching the lists of {\n  _id: new ObjectId(\"621877d2d7f29144f2e7eb4b\"),\n  title: 'list 3',\n  _userId: new ObjectId(\"621791d55acb95e68b2bbe72\"),\n  __v: 0\n},{\n  _id: new ObjectId(\"62208097ccef1144ec4fca55\"),\n  title: 'list 4',\n  _userId: new ObjectId(\"621791d55acb95e68b2bbe72\"),\n  __v: 0\n},{\n  _id: new ObjectId(\"6220a20c2e8039133337921f\"),\n  title: 'list 6',\n  _userId: new ObjectId(\"621791d55acb95e68b2bbe72\"),\n  __v: 0\n},{\n  _id: new ObjectId(\"62282f9e42e6da4e974c7a77\"),\n  title: 'new',\n  _userId: new ObjectId(\"621791d55acb95e68b2bbe72\"),\n  __v: 0\n}from DB","timestamp":"2022-03-09T05:49:32.238Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:50:28.056Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:50:59.516Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:51:32.023Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T05:52:12.100Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T07:20:56.761Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T07:21:36.556Z"}
+{"level":"info","message":"Fetching the lists of from DB","timestamp":"2022-03-09T07:22:04.653Z"}
+{"level":"info","message":"Fetching the lists of from DB","timestamp":"2022-03-09T07:22:06.755Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T07:22:52.688Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T07:26:59.521Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T07:27:16.294Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T07:27:41.104Z"}
+{"level":"info","message":"Fetching the lists of from DB","timestamp":"2022-03-09T07:27:45.770Z"}
+{"level":"info","message":"Fetching the lists of from DB","timestamp":"2022-03-09T07:30:10.052Z"}
+{"level":"info","message":"New List new list Created Successfully","timestamp":"2022-03-09T07:33:24.786Z"}
+{"level":"info","message":"Fetching the tasks of from DB","timestamp":"2022-03-09T07:33:24.858Z"}
+{"level":"info","message":"Fetching the lists of from DB","timestamp":"2022-03-09T07:33:24.862Z"}
+{"level":"info","message":"Task Created new task Successfully","timestamp":"2022-03-09T07:34:26.575Z"}
+{"level":"info","message":"Fetching the lists of from DB","timestamp":"2022-03-09T07:34:26.650Z"}
+{"level":"info","message":"Fetching the tasks of from DB","timestamp":"2022-03-09T07:34:26.654Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T07:35:33.354Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T07:35:42.902Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T07:37:16.577Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T07:38:55.580Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T07:39:27.464Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T07:41:49.836Z"}
+{"level":"info","message":"Fetching the lists of from DB","timestamp":"2022-03-09T07:50:16.445Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T08:00:35.372Z"}
+{"level":"info","message":"User test@test.com logged in Successfully","timestamp":"2022-03-09T11:18:16.982Z"}
+{"level":"info","message":"Fetching the lists of from DB","timestamp":"2022-03-09T11:18:17.294Z"}
+{"level":"info","message":"Fetching the lists of from DB","timestamp":"2022-03-09T11:18:33.744Z"}
+{"level":"info","message":"Fetching the lists of from DB","timestamp":"2022-03-09T11:18:37.125Z"}
+{"level":"info","message":"Fetching the tasks of from DB","timestamp":"2022-03-09T11:18:37.309Z"}
+{"level":"info","message":"Fetching the lists of from DB","timestamp":"2022-03-09T11:18:43.583Z"}
+{"level":"info","message":"Fetching the tasks of from DB","timestamp":"2022-03-09T11:18:44.926Z"}
+{"level":"info","message":"Fetching the lists of from DB","timestamp":"2022-03-09T11:18:44.927Z"}
+{"level":"info","message":"Fetching the lists of from DB","timestamp":"2022-03-09T11:18:51.615Z"}
+{"level":"info","message":"Fetching the tasks of from DB","timestamp":"2022-03-09T11:18:56.542Z"}
+{"level":"info","message":"Fetching the lists of from DB","timestamp":"2022-03-09T11:18:56.544Z"}
+{"level":"info","message":"Task name updated Successfully","timestamp":"2022-03-09T11:19:02.032Z"}
+{"level":"info","message":"Fetching the lists of from DB","timestamp":"2022-03-09T11:19:02.088Z"}
+{"level":"info","message":"Fetching the tasks of from DB","timestamp":"2022-03-09T11:19:02.091Z"}
+{"level":"info","message":"Server is listening on port 3000","timestamp":"2022-03-09T11:20:58.529Z"}
+{"level":"info","message":"User test@test.com logged in Successfully","timestamp":"2022-03-09T11:21:03.136Z"}
+{"level":"info","message":"Fetching the lists of from DB","timestamp":"2022-03-09T11:21:03.276Z"}
+{"level":"info","message":"Fetching the lists of from DB","timestamp":"2022-03-09T11:21:05.727Z"}
+{"level":"info","message":"Fetching the tasks of from DB","timestamp":"2022-03-09T11:21:05.738Z"}
+{"level":"info","message":"New List new list Created Successfully","timestamp":"2022-03-09T11:29:57.555Z"}
+{"level":"info","message":"Fetching the tasks of from DB","timestamp":"2022-03-09T11:29:57.623Z"}
+{"level":"info","message":"Fetching the lists of from DB","timestamp":"2022-03-09T11:29:57.629Z"}
+{"level":"info","message":"Fetching the tasks of from DB","timestamp":"2022-03-09T11:31:25.187Z"}
+{"level":"info","message":"Fetching the tasks of from DB","timestamp":"2022-03-09T11:31:26.454Z"}
+{"level":"info","message":"Fetching the tasks of from DB","timestamp":"2022-03-09T11:31:28.903Z"}
+{"level":"info","message":"Fetching the tasks of from DB","timestamp":"2022-03-09T11:31:30.457Z"}
+{"level":"info","message":"Task name updated Successfully","timestamp":"2022-03-09T11:31:34.858Z"}
+{"level":"info","message":"Fetching the tasks of from DB","timestamp":"2022-03-09T11:31:51.795Z"}
+{"level":"info","message":"Fetching the lists of from DB","timestamp":"2022-03-09T11:31:51.807Z"}
